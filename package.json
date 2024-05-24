@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build" ,
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -39,8 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hyeon-woo1/github.io/react-for-beginners/",
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  }
+  "homepage": "https://hyeon-woo1/github.io/react-for-beginners"
 }

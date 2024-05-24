@@ -15,6 +15,7 @@ function Home() {
   
     };
   
+    
     useEffect(()=> {
       getMovies();
       console.log(movies);

@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Detail from "./routes/Detail";
 
+
 function App() {
   return (
   <Router>
